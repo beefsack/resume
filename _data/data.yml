@@ -3,219 +3,183 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Michael Alexander
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+    email: mick.alexander@gmail.com
+    phone: Upon request
+    timezone: Australia/Canberra
+    website: beefsack.com
+    linkedin: beefsack
+    github: beefsack
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Skilled and highly motivated Software Engineer, with a passion for free
+      and open-source software and operating systems, and a particular interest
+      in Rust, Go, Linux and Kubernetes.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: B.C.S. Software Engineering
+        university: University of New England
+        time: "2014"
+      - degree: B.A.S. Linguistics
+        university: Australian National University
+        time: "2007"
 experiences:
-    title: Experiences
+    title: Employment
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Lead Software / Infrastructure Architect
+        time: 2009 - Present
+        company: T360 Group / Easy Employer, Canberra
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
+          Head of software and infrastucture engineering for the main Easy
+          Employer product, as well as a number of smaller products across a
+          range of technologies.
+
+          Joined the company very early stage, and helped the company grow from
+          a very small operation to building enterprise grade software for large
+          disability and aged care organisations. In my time at the company it
+          has grown several orders of magnitude in staff, revenue and customers.
+
+          **Roles**
+
+          - Software development
+          - Infrastructure development and maintenance
+          - Database admin
+          - Scrum Master (certified)
+          - Preparing regular reports for CEO
+          - Assist developing and implementing technical strategy
+          - Recruitment and training
+
+          **Technologies:**
+
+          - Linux
+          - Docker
+          - Kubernetes (application development and cluster admin)
+          - AWS
+          - VMWare (for on-prem workloads)
+          - Web (PHP / TypeScript)
+          - MariaDB
+          - Redis
+          - Mobile apps (Android / iOS)
+      - role: CEO / Managing Director
         time: 2012 - 2014
-        company: Amazon, London
+        company: Miniand Pty. Ltd., Guangzhou / Canberra
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Small software development business I founded. Miniand was involved
+          with developer boards and mini PCs, working directly with
+          manufacturers in southern China and reselling through a custom
+          e-commerce platform written in Rails.
+      - role: Service Delivery Analyst
+        time: 2008 - 2009
+        company: KAZ Group Pty. Ltd., Canberra
+        details: |
+          Provided account and technical support for major Australia government
+          department IT infrastructure, including maintaining a security
+          clearance.
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      While my professional career has focused on PHP / TypeScript web
+      development, my true passion is in Rust, Go and Kubernetes. This is
+      reflected in the majority of my side projects.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: brdg.me
+        link: https://github.com/brdgme/brdgme
+        tagline: |
+          An ascii art board gaming platform, with a focus on text interfaces.
+          The current iteration of the application is a mixture of Rust and Go,
+          and runs in Kubernetes on Linode.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+          The vision for the service is to support pure play-by-email, in that
+          player moves are made by replying with a command to the email itself
+          and not needing to use a web interface. There is a custom SMTP server
+          I have implemented to handle command input.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+          The first iteration of brdg.me was entirely in Go and was almost 100k
+          LOC. As my interest in Rust grew, I began doing new game
+          implementations in Rust, as game implementations are language
+          agnostic.
+      - title: webify
+        link: https://github.com/beefsack/webify
+        tagline: A Go tool to instantly turn a Linux command into a web server - ~1k stars
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: go-astar
+        link: https://github.com/beefsack/go-astar
+        tagline: An A* pathfinding library in Go - ~500 stars
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: go-rate
+        link: https://github.com/beefsack/go-rate
+        tagline: A rate limiter library in Go - ~400 stars
 
 oss:
-    title: OSS Contributions
+    title: FOSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have made a number of FOSS contributions over the years as I am a heavy
+      user of FOSS. I more regularly contribute on issue discussions, but have
+      made code and documentation contributions in the past.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Rust Programming Language
+        link: https://github.com/rust-lang/rust
+        tagline: I contributed documentation to Rust 1.0, and am listed in the 1.0 release notes.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: VSCodeVim
+        link: https://github.com/VSCodeVim/Vim
+        tagline: I implemented the window splitting shortcut key to match Vim.
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Linux Desktop / Server
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Go
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: Rust
+        level: 90%
+
+      - name: Kubernetes Application Development
+        level: 90%
+
+      - name: Kubernetes Cluster Administration
+        level: 80%
+
+      - name: Amazon Web Services
+        level: 95%
+      
+      - name: Google Cloud
+        level: 60%
+      
+      - name: Azure
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: PHP
+        level: 95%
+
+      - name: TypeScript / JavaScript
+        level: 90%
+
+      - name: React
+        level: 80%
+
+awards:
+    title: Awards
+
+    awards:
+    - title: Josh Software Pvt. Ltd. · Go Challenge 2
+      link: https://web.archive.org/web/20160305045144/http://golang-challenge.com/go-challenge2/
+      tagline: |
+        1st place Apr 2015 - A programming competition using the Go programming
+        language. The problem was to design a secure messaging application using
+        NaCl. 
