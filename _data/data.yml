@@ -41,14 +41,15 @@ experiences:
         time: 2009 - Present
         company: T360 Group / Easy Employer, Canberra
         details: |
-          Head of software and infrastucture engineering for the main Easy
+          Head of software and infrastructure engineering for the main Easy
           Employer product, as well as a number of smaller products across a
           range of technologies.
 
-          Joined the company very early stage, and helped the company grow from
-          a very small operation to building enterprise grade software for large
-          disability and aged care organisations. In my time at the company it
-          has grown several orders of magnitude in staff, revenue and customers.
+          Joined the company at a very early stage, and helped the company grow
+          from a very small operation to building enterprise grade software for
+          large disability and aged care organisations. In my time at the
+          company it has grown several orders of magnitude in staff, revenue and
+          customers.
 
           **Roles**
 
@@ -135,6 +136,12 @@ oss:
       - title: VSCodeVim
         link: https://github.com/VSCodeVim/Vim
         tagline: I implemented the window splitting shortcut key to match Vim.
+
+publications:
+    title: Publications
+    papers:
+      - title: Data Visualization with D3 and AngularJS, Packt Publishing, 2015 (Technical Reviewer)
+        authors: Christoph Körner
 
 skills:
     title: Skills
