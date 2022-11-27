@@ -105,7 +105,7 @@ projects:
           and not needing to use a web interface. There is a custom SMTP server
           I have implemented to handle command input.
 
-          The first iteration of brdg.me was entirely in Go and was almost 100k
+          The first iteration of brdg.me was entirely in Go and was roughly 50k
           LOC. As my interest in Rust grew, I began doing new game
           implementations in Rust, as game implementations are language
           agnostic.
