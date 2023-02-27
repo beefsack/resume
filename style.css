@@ -1,0 +1,17 @@
+body {
+  background-color: lightgrey;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Serif Pro', sans-serif;
+}
+
+@media screen {
+  .resume-container {
+    box-shadow: 0 .5rem 1rem rgba(var(--bs-body-color-rgb),.15);
+  }
+
+  .resume-body {
+    background-color: #F2F2F2;
+  }
+}
