@@ -6,6 +6,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Source Serif Pro', sans-serif;
 }
 
+.print-link-for-web {
+  display: none;
+}
+
 @media screen {
   .resume-container {
     box-shadow: 0 .5rem 1rem rgba(var(--bs-body-color-rgb),.15);
@@ -13,5 +17,13 @@ h1, h2, h3, h4, h5, h6 {
 
   .resume-body {
     background-color: #F2F2F2;
+  }
+
+  .github-link-for-pdf {
+    display: none;
+  }
+
+  .print-link-for-web {
+    display: block;
   }
 }
